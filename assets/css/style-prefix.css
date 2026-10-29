@@ -338,6 +338,7 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
 .newsletter {
   padding: 50px 30px;
   text-align: center;
+  background-color: rgb(252, 181, 234);
 }
 
 .newsletter-header { margin-bottom: 20px; }
